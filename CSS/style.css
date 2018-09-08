@@ -1,36 +1,7 @@
+/* Include */
+
 body{
     background-color: #f2f9f9;
-    font-family: 'Roboto', sans-serif;
-}
-
-.navbar-brand img{
-    width: 50px;
-    height: auto;
-}
-
-.popular{
-    position: relative;
-    background-color: #fff;
-    padding: 50px 0px;
-    text-align: center;
-}
-
-.card-title h5{
-    font-family: 'Roboto', sans-serif;
-}
-
-.col-sm-12{
-    margin-bottom: 0px;
-}
-
-.section-image{
-    position: relative;
-    background-image: url(../Picture/Edited.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
-}
-
-.container h1{
     font-family: 'Roboto', sans-serif;
 }
 
@@ -49,3 +20,58 @@ ul li a:hover{
     padding-right: 5.5rem !important;
     padding-left: 5.5rem !important;
 }
+
+.popular {
+    position: relative;
+    background-color: #fff;
+    padding: 50px 0px;
+    text-align: center;
+}
+
+.navbar-brand img{
+    width: 50px;
+    height: auto;
+}
+
+.container h1{
+    font-family: 'Roboto', sans-serif;
+}
+
+/* End Include */
+
+/* Main CSS */
+.card-title h5{
+    font-family: 'Roboto', sans-serif;
+}
+
+.col-sm-12{
+    margin-bottom: 0px;
+}
+
+.section-image{
+    position: relative;
+    background-image: url(../Picture/Edited.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+/* News CSS */
+
+.img-background-news{
+    background-image: url(../Picture/BackgroundForum.jpg);
+    width: auto;
+    background-size: cover;
+    background-repeat: no-repeat center fixed;
+}
+
+/* End News CSS */
+
+/* Forums CSS */
+
+.img-background-forum{
+    background-image: url(../Picture/BackgroundForum.jpg);
+    width: auto;
+    background-size: cover;
+    background-repeat: no-repeat center fixed;
+}
+
+/* End Forums CSS */
