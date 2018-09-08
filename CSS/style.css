@@ -74,4 +74,12 @@ ul li a:hover{
     background-repeat: no-repeat center fixed;
 }
 
+.popular-edit {
+    position: relative;
+    background-color: #fff;
+    padding: 50px 0px;
+    text-align: center;
+    height: 632px;
+}
+
 /* End Forums CSS */
