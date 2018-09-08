@@ -1,0 +1,51 @@
+body{
+    background-color: #f2f9f9;
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar-brand img{
+    width: 50px;
+    height: auto;
+}
+
+.popular{
+    position: relative;
+    background-color: #fff;
+    padding: 50px 0px;
+    text-align: center;
+}
+
+.card-title h5{
+    font-family: 'Roboto', sans-serif;
+}
+
+.col-sm-12{
+    margin-bottom: 0px;
+}
+
+.section-image{
+    position: relative;
+    background-image: url(../Picture/Edited.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.container h1{
+    font-family: 'Roboto', sans-serif;
+}
+
+ul li a{
+    color: #fff;
+    transition: 0.6s ease;
+}
+
+ul li a:hover{
+    background-color: orange;
+    color: #000;
+    border-radius: 25px;
+}
+
+.nav-menu{
+    padding-right: 5.5rem !important;
+    padding-left: 5.5rem !important;
+}
