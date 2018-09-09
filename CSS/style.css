@@ -37,6 +37,17 @@ ul li a:hover{
     font-family: 'Roboto', sans-serif;
 }
 
+.img-background-forum{
+    background-image: url(../Picture/BackgroundForum.jpg);
+    width: auto;
+    background-size: cover;
+    background-repeat: no-repeat center fixed;
+}
+
+.mytext-color{
+    color:  #009fff;
+}
+
 /* End Include */
 
 /* Main CSS */
@@ -67,13 +78,6 @@ ul li a:hover{
 
 /* Forums CSS */
 
-.img-background-forum{
-    background-image: url(../Picture/BackgroundForum.jpg);
-    width: auto;
-    background-size: cover;
-    background-repeat: no-repeat center fixed;
-}
-
 .popular-edit {
     position: relative;
     background-color: #fff;
@@ -83,3 +87,10 @@ ul li a:hover{
 }
 
 /* End Forums CSS */
+
+/* Contact CSS */
+
+.my-align{
+    margin-left: 54px;
+}
+/* End of Contact CSS */
