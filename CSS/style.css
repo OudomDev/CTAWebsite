@@ -1,0 +1,96 @@
+/* Include */
+
+body{
+    background-color: #f2f9f9;
+    font-family: 'Roboto', sans-serif;
+}
+
+ul li a{
+    color: #fff;
+    transition: 0.6s ease;
+}
+
+ul li a:hover{
+    background-color: orange;
+    color: #000;
+    border-radius: 25px;
+}
+
+.nav-menu{
+    padding-right: 2.5rem !important;
+    padding-left: 2.5rem !important;
+}
+
+.popular {
+    position: relative;
+    background-color: #fff;
+    padding: 50px 0px;
+    text-align: center;
+}
+
+.navbar-brand img{
+    width: 30px;
+    height: auto;
+}
+
+.container h1{
+    font-family: 'Roboto', sans-serif;
+}
+
+.img-background-forum{
+    background-image: url(../Picture/BackgroundForum.jpg);
+    width: auto;
+    background-size: cover;
+    background-repeat: no-repeat center fixed;
+}
+
+.mytext-color{
+    color:  #009fff;
+}
+
+/* End Include */
+
+/* Main CSS */
+.card-title h5{
+    font-family: 'Roboto', sans-serif;
+}
+
+.col-sm-12{
+    margin-bottom: 0px;
+}
+
+.section-image{
+    position: relative;
+    background-image: url(../Picture/Edited.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+/* News CSS */
+
+.img-background-news{
+    background-image: url(../Picture/BackgroundForum.jpg);
+    width: auto;
+    background-size: cover;
+    background-repeat: no-repeat center fixed;
+}
+
+/* End News CSS */
+
+/* Forums CSS */
+
+.popular-edit {
+    position: relative;
+    background-color: #fff;
+    padding: 50px 0px;
+    text-align: center;
+    height: 632px;
+}
+
+/* End Forums CSS */
+
+/* Contact CSS */
+
+.my-align{
+    margin-left: 54px;
+}
+/* End of Contact CSS */
