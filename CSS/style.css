@@ -19,6 +19,8 @@ ul li a:hover{
 .nav-menu{
     padding-right: 2.5rem !important;
     padding-left: 2.5rem !important;
+    padding-right: 5.5rem !important;
+    padding-left: 5.5rem !important;
 }
 
 .popular {
@@ -30,6 +32,7 @@ ul li a:hover{
 
 .navbar-brand img{
     width: 30px;
+    width: 50px;
     height: auto;
 }
 
